@@ -6,8 +6,8 @@
      \ \____/\ \_\ \_\ \___,_\ \____\\ \_\\/\____/\ \____\ \____/\ \_\\ \____\/\_\ _\ \ \/\____/
       \/___/  \/_/\/_/\/__,_ /\/____/ \/_/ \/___/  \/____/\/___/  \/_/ \/____/\/_//\ \_\ \/___/
                                                                                   \ \____/
-                                                                                   \/___/
-
+                                                                                   \/___/
+原生JavaScript工具函数库，提供了众多的操作数组、函数、对象等的工具函数。
 Underscore.js is a utility-belt library for JavaScript that provides
 support for the usual functional suspects (each, map, reduce, filter...)
 without extending any core JavaScript objects.
@@ -26,3 +26,5 @@ https://github.com/documentcloud
 
 Many thanks to our contributors:
 https://github.com/jashkenas/underscore/contributors
+
+中文教程：http://www.bootcss.com/p/underscore/#
